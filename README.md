@@ -1,0 +1,1 @@
+# 2capcha-turnstile-challange-playwrite
